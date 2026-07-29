@@ -1,3 +1,18 @@
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KennyAdm/KennyAdm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KennyAdm/KennyAdm/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/KennyAdm/KennyAdm/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+</div>
+
+<br/>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi,%20I'm%20Kenny%20Adam%20♏︎&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kenny%20|%20Information%20Systems%20Graduate&descAlignY=58&descSize=18&opacity=1" width="100%"/>
@@ -95,22 +110,6 @@ Bachelor of Information Systems — *Big Data Analytics Specialization*
 <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" />
 
 </div>
-
----
-
-## 👾 Pac-Man Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KennyAdm/KennyAdm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KennyAdm/KennyAdm/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/KennyAdm/KennyAdm/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
-</div>
-
-<br/>
 
 ---
 
