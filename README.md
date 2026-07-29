@@ -10,10 +10,6 @@
 
 <br/>
 
-<div align ="canter">
-<h5 data-importer="text" align="left">I am Kenny Adam, an Information Systems student with a specialization in Big Data Analytics. I am passionate about data-driven solutions, with expertise in data analysis, visualization, and business intelligence. Skilled in handling large datasets, I turn complex information into valuable insights. Beyond academics, I actively develop my leadership, problem-solving, and adaptability through organizational activities and professional training. Committed to continuous learning, I strive to drive innovation and strategic decision-making in the digital era.</h5>
-</div>
-
 ### 👋 About Me
 
 - 🎓 Information Systems graduate, specialization in **Big Data Analytics**, from **Multimedia Nusantara University**
