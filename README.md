@@ -70,13 +70,10 @@ Bachelor of Information Systems — *Big Data Analytics Specialization*
 <br/>
 <img src="https://skillicons.dev/icons?i=js,typescript,html,css,php,python&theme=dark" />
 
-<br/><br/>
 
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark" />
-
-<br/><br/>
 
 **Backend & CMS**
 <br/>
@@ -84,20 +81,14 @@ Bachelor of Information Systems — *Big Data Analytics Specialization*
 <br/>
 ![Strapi](https://img.shields.io/badge/Strapi-1e3c72?style=for-the-badge&logo=strapi&logoColor=6EA8FE)
 
-<br/><br/>
-
 **Mobile**
 <br/>
 ![React Native](https://img.shields.io/badge/React%20Native-1e3c72?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1e3c72?style=for-the-badge&logo=expo&logoColor=white)
 
-<br/><br/>
-
 **Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase&theme=dark" />
-
-<br/><br/>
 
 **Tools & Deployment**
 <br/>
