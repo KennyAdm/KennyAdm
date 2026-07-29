@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi,%20I'm%20Kenny%20Adam%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kenny%20|%20Information%20Systems%20Graduate&descAlignY=58&descSize=18&opacity=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi,%20I'm%20Kenny%20Adam%20♏︎&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kenny%20|%20Information%20Systems%20Graduate&descAlignY=58&descSize=18&opacity=1" width="100%"/>
 
 <a href="https://github.com/KennyAdm">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=3500&pause=800&color=6EA8FE&center=true&vCenter=true&width=900&lines=Big+Data+Analytics+Graduate;Data+Analyst+%7C+Software+Engineer+%7C+Business+Analyst;Frontend+%7C+Fullstack+%7C+Web+Developer" alt="Typing SVG" />
@@ -66,17 +66,44 @@ Bachelor of Information Systems — *Big Data Analytics Specialization*
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,vite,tailwind,bootstrap,laravel,php,python,git,powerbi&theme=dark" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,typescript,html,css,php,python&theme=dark" />
 
 <br/><br/>
 
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark" />
+
+<br/><br/>
+
+**Backend & CMS**
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" />
+<br/>
 ![Strapi](https://img.shields.io/badge/Strapi-1e3c72?style=for-the-badge&logo=strapi&logoColor=6EA8FE)
+
+<br/><br/>
+
+**Mobile**
+<br/>
 ![React Native](https://img.shields.io/badge/React%20Native-1e3c72?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1e3c72?style=for-the-badge&logo=expo&logoColor=white)
 
-</div>
+<br/><br/>
 
+**Database**
 <br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase&theme=dark" />
+
+<br/><br/>
+
+**Tools & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" />
+
+</div>
 
 ---
 
@@ -98,14 +125,7 @@ Bachelor of Information Systems — *Big Data Analytics Specialization*
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KennyAdm&show_icons=true&theme=dark&bg_color=1e3c72&title_color=6EA8FE&icon_color=6EA8FE&text_color=c9d1d9&border_color=2a5298" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KennyAdm&theme=dark&background=1e3c72&stroke=2a5298&ring=6EA8FE&fire=6EA8FE&currStreakLabel=6EA8FE" width="48%"/>
-
-</div>
-
-<br/>
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=KennyAdm&show_icons=true&theme=dark&bg_color=1e3c72&title_color=6EA8FE&icon_color=6EA8FE&text_color=c9d1d9&border_color=2a5298" width="48%"/> <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KennyAdm&layout=compact&langs_count=6&theme=dark&bg_color=1e3c72&title_color=6EA8FE&text_color=c9d1d9&border_color=2a5298&hide_border=false" width="48%"/> <br/> <img src="https://streak-stats.demolab.com/?user=KennyAdm&theme=dark&background=1e3c72&stroke=2a5298&ring=6EA8FE&fire=6EA8FE&currStreakLabel=6EA8FE" width="60%"/> </div> <br/>
 
 ---
 
