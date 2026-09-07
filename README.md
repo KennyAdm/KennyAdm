@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi,%20I'm%20Kenny%20Adam%20♏︎&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kenny%20|%20Information%20Systems%20Graduate&descAlignY=58&descSize=18&opacity=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi,%20I'm%20Kenny%20Adam%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kenny%20|%20Information%20Systems%20Graduate&descAlignY=58&descSize=18&opacity=1" width="100%"/>
 
 <a href="https://github.com/KennyAdm">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=3500&pause=800&color=6EA8FE&center=true&vCenter=true&width=900&lines=Big+Data+Analytics+Graduate;Data+Analyst+%7C+Software+Engineer+%7C+Business+Analyst;Frontend+%7C+Fullstack+%7C+Web+Developer" alt="Typing SVG" />
